@@ -8,3 +8,8 @@ npm install
 npm run build
 npm run start
 ```
+
+This was tested using `node 12.6.0`. You can install it using `nvm`:
+```
+nvm install 12.6
+```
